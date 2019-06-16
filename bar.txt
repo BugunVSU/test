@@ -1,2 +1,0 @@
-"This is new file"
-"More stuff in new file"
