@@ -1,5 +1,6 @@
-"Saturday Sunday"
+"Monday-Friday"
 Bugun Choi
 "Fun about to begin"
 "Groundhog day"
 "Change from someone else"
+“Change from local clone”
